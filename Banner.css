@@ -1,0 +1,54 @@
+/* Banner.css */
+
+/* Style the banner container */
+.banner {
+    background-color: #ff5733; /* Banner background color */
+    color: #000; /* Text color */
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 120px;
+    margin-left: 150px;
+    margin-right: 500px;
+    height: 300px;
+  }
+  /* Banner.css (or your CSS file) */
+.banner {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    position: relative; /* Add positioning styles as needed */
+  }
+  
+  .banner img {
+    margin-left: 500px;
+    max-width: 30%; /* Ensure the image is responsive */
+    height: auto; /* Maintain aspect ratio */
+    /* Add other image styles as needed */
+  }
+  
+  
+  /* Style the banner heading (Contact Us) */
+  .banner h1 {
+    font-size: 50px;
+    margin-bottom: 10px;
+    text-align: left;
+    font-weight: bold;
+  }
+  .banner-text {
+  flex-grow: 1;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: left; /* Align the text to the left */
+}
+
+  
+  /* Style the banner text (Fresh 2022 look) */
+  .banner p {
+    margin-left: 20px;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: right;
+    color: #333;
+  }
+  
+  

@@ -1,0 +1,45 @@
+/* ProductList.css */
+
+/* Style the product list container */
+.product-list {
+    margin-top: 20px;
+  }
+  
+  /* Style the product list heading (Our Products) */
+  .product-list h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  /* Style the list of products */
+  .product-list ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  /* Style individual product items */
+  .product-list li {
+    margin-bottom: 20px;
+  }
+  
+  /* Style product item image */
+  .product-list img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Style product item title */
+  .product-list .product-title {
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  
+  /* Style product item price */
+  .product-list .product-price {
+    font-size: 16px;
+    color: #ff5733; /* Customize the price color */
+  }
+  
+  /* You can add more styling as needed based on your design */
+  
